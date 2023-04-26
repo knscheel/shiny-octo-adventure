@@ -1,0 +1,52 @@
+﻿Region Number,Region,Division,Division Name,State,StateCode
+1,Northeast,1,New England,Connecticut,CN
+1,Northeast,1,New England,Maine,ME
+1,Northeast,1,New England,Massachusetts,MA
+1,Northeast,1,New England,New Hampshire,NH
+1,Northeast,1,New England,Rhode Island,RI
+1,Northeast,1,New England,Vermont,VT
+1,Northeast,2,Middle Atlantic,New Jersey,NJ
+1,Northeast,2,Middle Atlantic,New York,NY
+1,Northeast,2,Middle Atlantic,Pennsylvania,PA
+2,Midwest,3,East North Central,Illinois,IL
+2,Midwest,3,East North Central,Indiana,IN
+2,Midwest,3,East North Central,Michigan,MI
+2,Midwest,3,East North Central,Ohio,OH
+2,Midwest,3,East North Central,Wisconsin,WI
+2,Midwest,4,West North Central,Iowa,IA
+2,Midwest,4,West North Central,Kansas,KN
+2,Midwest,4,West North Central,Minnesota,MN
+2,Midwest,4,West North Central,Missouri,MO
+2,Midwest,4,West North Central,Nebraska,NE
+2,Midwest,4,West North Central,North Dakota,ND
+2,Midwest,4,West North Central,South Dakota,SD
+3,South,5,South Atlantic,Delaware,DE
+3,South,5,South Atlantic,Florida,FL
+3,South,5,South Atlantic,Georgia,GA
+3,South,5,South Atlantic,Maryland,MD
+3,South,5,South Atlantic,North Carolina,NC
+3,South,5,South Atlantic,South Carolina,SC
+3,South,5,South Atlantic,Virginia,VA
+3,South,5,South Atlantic,"Washington, D.C.",DC
+3,South,5,South Atlantic,West Virginia,WV
+3,South,6,East South Central,Alabama,AL
+3,South,6,East South Central,Kentucky,KY
+3,South,6,East South Central,Mississippi,MS
+3,South,6,East South Central,Tennessee,TN
+3,South,7,West South Central,Arkansas,AR
+3,South,7,West South Central,Louisiana,LA
+3,South,7,West South Central,Oklahoma,OK
+3,South,7,West South Central,Texas,TX
+4,West,8,Mountain,Arizona,AZ
+4,West,8,Mountain,Colorado,CO
+4,West,8,Mountain,Idaho,ID
+4,West,8,Mountain,Montana,MT
+4,West,8,Mountain,Nevada,NV
+4,West,8,Mountain,New Mexico,NM
+4,West,8,Mountain,Utah,UT
+4,West,8,Mountain,Wyoming,WY
+4,West,9,Pacific,Alaska,AL
+4,West,9,Pacific,California,CA
+4,West,9,Pacific,Hawaii,HI
+4,West,9,Pacific,Oregon,OR
+4,West,9,Pacific,Washington,WA
